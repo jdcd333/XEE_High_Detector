@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Description:
+Description: A multi-threaded XML External Entity (XXE) vulnerability scanner with comprehensive reporting.
 Author: jdcd333
 Version: 1.0
 """
